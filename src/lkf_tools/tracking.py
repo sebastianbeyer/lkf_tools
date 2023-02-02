@@ -16,7 +16,7 @@ __author_email__ = "nhutter@uw.edu"
 import numpy as np
 import matplotlib.pylab as plt
 
-from .detection import *
+from .detection import angle_segs
 
 
 

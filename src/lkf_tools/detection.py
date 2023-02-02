@@ -24,7 +24,7 @@ import warnings
 import scipy.ndimage as ndim
 import skimage.morphology
 
-from .rgps import *
+from .rgps import read_RGPS, mSSMI, get_latlon_RGPS
 from ._dir_filter import skeleton_along_max
 
 
