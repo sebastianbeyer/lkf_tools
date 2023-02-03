@@ -7,6 +7,8 @@ in gridded sea-ice deformation data. The package includes statistical tools
 to analyse spatial and temporal statistics of LKFs.
 """
 
+from .dataset import process_dataset
+
 
 # Package Metadata
 __version__ = 0.1
