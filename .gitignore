@@ -4,3 +4,5 @@ __pycache__/
 
 # distribution
 *.egg-info/
+
+.coverage
